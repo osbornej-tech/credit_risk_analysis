@@ -35,7 +35,7 @@ The precision score for high_risk borrowers was 0.01; while, the precision score
 * Recall Score
 The recall score for high risk borrowers was 0.68 and the recall score for low risk borrowers was 0.41.
 
-## SMOTE OVersampling 
+## SMOTE Oversampling 
 <img src ='https://github.com/osbornej-tech/credit_risk_analysis/blob/main/SMOTE%20Oversampling.png'>
 
 * Balanced Accuracy Score 
